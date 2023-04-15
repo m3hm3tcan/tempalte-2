@@ -71,7 +71,7 @@ const NavMobile = () => {
         {navigation.map((item, index) => {
           return (
             <li key={index} className="mb-8 capitalize">
-                <a href={item.href}>{item.name}</a>
+              <Link to={item.href} activeClass='active' spy={true} smooth={true} duration={500} offset={-70} className='transation-all duration-300'>{item.name}</Link>
             </li>
           );
         })}
