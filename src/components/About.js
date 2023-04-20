@@ -11,8 +11,8 @@ const About = () =>{
                     <div className='flex flex-col items-center text-center lg:items-start lg:text-left'>
                         <div className='flex flex-col'>
                             <h2 className='text-3xl lg:text-4xl font-medium lg:font-extrabold mb-3 before:content-about relative before:absoulte before:opacity-40 before:-top-[2rem]
-                            before:hidden before:lg:block mx-8'> Dimitris Dekavallas</h2>
-                            <p className='mb-4 text-accent mx-8'>Guitarist</p>
+                            before:hidden before:lg:block mx-8'> Your name</h2>
+                            <p className='mb-4 text-accent mx-8'>Your title here</p>
                             <hr className='mb-8 opacity-5'></hr>
                             <p className='mb-8 mx-8'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
