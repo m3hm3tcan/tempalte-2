@@ -206,15 +206,15 @@ export const services = [
 export const videos = [
   {
     videoUrl: 'https://www.youtube.com/embed/aq3z2c4ha80?controls=1',
-    videoText: "Minor Swing - Django Reinhardt (Dimitris Dekavallas & George Patsiotis)",
+    videoText: "Minor Swing - Django Reinhardt ",
   },
   {
     videoUrl: 'https://www.youtube.com/embed/lOO4UZ7RT3I?controls=1',
-    videoText: "DIMITRIS DEKAVALLAS: Adagio -Concierto de Aranjuez -Joaquin Rodrigo (Danube Symphony Orchestra)",
+    videoText: "Your name: Adagio -Concierto de Aranjuez -Joaquin Rodrigo (Danube Symphony Orchestra)",
   },
   {
     videoUrl: 'https://www.youtube.com/embed/aq3z2c4ha80?controls=1',
-    videoText: "Concierto de Aranjuez - Allegro con Spirito - Dimitris Dekavallas guitar",
+    videoText: "Concierto de Aranjuez - Allegro con Spirito -",
   },
 ];
 
@@ -229,7 +229,7 @@ export const contact = [
   {
     icon: <FiMapPin />,
     title: "Current Location",
-    subtitle: "Budapest, Hungary",
+    subtitle: "your city, country",
     description: "Serving clients worldwide",
   },
 ];
