@@ -9,8 +9,8 @@ const Hero = () => {
           <div className='flex items-center  h-full pt-8 '>
             {/* left side */}
             <div className='flex-1 flex flex-col items-center lg:items-start'>
-                <p className='text-xl text-accent mb-[22px]'>Hey, I am Dimitris Dekavallas</p>
-                <h1 className='text-4xl leading-[44px] md:text-5xl md:leading-tight lg:text-7xl lg:leading-[1.2] font-bold md:tracking-[-2px]'>Guitarist &<br/> Recording Artist</h1>
+                <p className='text-xl text-accent mb-[22px]'>Hey, I am [your name] </p>
+                <h1 className='text-4xl leading-[44px] md:text-5xl md:leading-tight lg:text-7xl lg:leading-[1.2] font-bold md:tracking-[-2px]'>Your title &<br/> your title 2</h1>
                 <br/>                
                 <button className='btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all'>Work with me</button>
             </div>
