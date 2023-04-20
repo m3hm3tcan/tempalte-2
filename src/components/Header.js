@@ -23,7 +23,7 @@ const Header = () => {
         {/* logo */}
         <a href="/">
 
- <span>Personal Logo<\span>
+ <span>Personal Logo</span>
         </a>
         {/* nav */}
         <div className="hidden lg:block">
